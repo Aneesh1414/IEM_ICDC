@@ -112,6 +112,10 @@
     #Lis{
         font-size: 16px!important;
     }
-    
+    #brand{
+        
+        width: 34px;
+        height: 34px;
+    }   
     
 }
